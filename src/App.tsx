@@ -368,18 +368,18 @@ export default function App() {
 
     // Load assets
     const pImg = new Image();
-    pImg.src = '/assets/player.png.png';
+    pImg.src = 'assets/player.png.png';
     playerImg.current = pImg;
 
     const sImg = new Image();
-    sImg.src = '/assets/shield.png.png';
+    sImg.src = 'assets/shield.png.png';
     shieldImg.current = sImg;
 
     // Load enemy images
     const eImgs: HTMLImageElement[] = [];
     for (let i = 1; i <= 5; i++) {
         const img = new Image();
-        img.src = `/assets/enemy${i}.png.png`;
+        img.src = `assets/enemy${i}.png.png`;
         eImgs.push(img);
     }
     enemyImgs.current = eImgs;
