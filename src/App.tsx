@@ -9,12 +9,12 @@ import { Volume2, VolumeX } from 'lucide-react';
 
 // --- Sound Management ---
 const SOUND_URLS = {
-  bgm: 'https://assets.mixkit.co/music/preview/mixkit-tech-house-vibes-130.mp3',
-  dash: 'https://assets.mixkit.co/sfx/preview/mixkit-fast-whoosh-1185.mp3',
-  shield: 'https://assets.mixkit.co/sfx/preview/mixkit-magic-marimba-2821.mp3',
-  slowmo: 'https://assets.mixkit.co/sfx/preview/mixkit-low-impact-hit-1490.mp3',
-  powerup: 'https://assets.mixkit.co/sfx/preview/mixkit-arcade-game-jump-coin-246.mp3',
-  gameover: 'https://assets.mixkit.co/sfx/preview/mixkit-explosion-with-debris-2188.mp3'
+  bgm: 'https://raw.githubusercontent.com/phaserjs/examples/master/public/assets/audio/CatAstroPhi_shmup_normal.mp3',
+  dash: 'https://raw.githubusercontent.com/phaserjs/examples/master/public/assets/audio/SoundEffects/sword.mp3',
+  shield: 'https://raw.githubusercontent.com/phaserjs/examples/master/public/assets/audio/SoundEffects/fantasy-magic-spell.mp3',
+  slowmo: 'https://raw.githubusercontent.com/phaserjs/examples/master/public/assets/audio/SoundEffects/lazer_wall_off.mp3',
+  powerup: 'https://raw.githubusercontent.com/phaserjs/examples/master/public/assets/audio/SoundEffects/p-m-c-magical-item-get-1.mp3',
+  gameover: 'https://raw.githubusercontent.com/phaserjs/examples/master/public/assets/audio/SoundEffects/explosion.mp3'
 };
 
 class SoundManager {
