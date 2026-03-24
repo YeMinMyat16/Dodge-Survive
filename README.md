@@ -5,7 +5,6 @@ Dodge-Survive is an adrenaline-pumping, fast-paced arcade game where you play as
 ## 🚀 Live Demo
 **[Check out the game here!](https://YeMinMyat16.github.io/Dodge-Survive/)**
 
-*(Note: The link will be active after the first GitHub Action deployment finishes.)*
 
 ---
 
