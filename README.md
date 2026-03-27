@@ -8,6 +8,13 @@ Dodge-Survive is an adrenaline-pumping, fast-paced arcade game where you play as
 
 ---
 
+## 📸 Screenshots
+
+![Game Screenshot 1](SS/Screenshot%202026-03-28%20024714.png)
+![Game Screenshot 2](SS/Screenshot%202026-03-28%20024727.png)
+
+---
+
 ## 🎮 How to Play
 
 | Action | Control |
